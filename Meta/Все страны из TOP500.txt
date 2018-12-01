@@ -1,0 +1,54 @@
+Japan :  1169  supercomputers in 26 ranks
+United States :  6402  supercomputers in 26 ranks
+Canada :  168  supercomputers in 26 ranks
+United Kingdom :  743  supercomputers in 26 ranks
+South Korea :  156  supercomputers in 26 ranks
+France :  538  supercomputers in 26 ranks
+Germany :  961  supercomputers in 26 ranks
+Netherlands :  138  supercomputers in 24 ranks
+Switzerland :  129  supercomputers in 26 ranks
+Brazil :  58  supercomputers in 22 ranks
+Spain :  85  supercomputers in 25 ranks
+Australia :  121  supercomputers in 26 ranks
+Taiwan :  56  supercomputers in 22 ranks
+Norway :  56  supercomputers in 24 ranks
+Austria :  41  supercomputers in 18 ranks
+Denmark :  40  supercomputers in 21 ranks
+Italy :  183  supercomputers in 26 ranks
+Mexico :  36  supercomputers in 17 ranks
+Finland :  55  supercomputers in 26 ranks
+Sweden :  126  supercomputers in 26 ranks
+Slovenia :  7  supercomputers in 7 ranks
+Belgium :  30  supercomputers in 20 ranks
+Greece :  4  supercomputers in 3 ranks
+Hong Kong :  22  supercomputers in 14 ranks
+Saudi Arabia :  72  supercomputers in 19 ranks
+Ireland :  30  supercomputers in 12 ranks
+Turkey :  4  supercomputers in 3 ranks
+Singapore :  24  supercomputers in 15 ranks
+China :  1139  supercomputers in 21 ranks
+Poland :  58  supercomputers in 16 ranks
+Israel :  31  supercomputers in 14 ranks
+South Africa :  19  supercomputers in 13 ranks
+New Zealand :  40  supercomputers in 17 ranks
+Egypt :  5  supercomputers in 3 ranks
+Luxembourg :  10  supercomputers in 6 ranks
+Russian Federation :  90  supercomputers in 20 ranks
+Liechtenstein :  1  supercomputers in 1 ranks
+Hungary :  3  supercomputers in 3 ranks
+Portugal :  6  supercomputers in 4 ranks
+Venezuela :  4  supercomputers in 2 ranks
+Puerto Rico :  1  supercomputers in 1 ranks
+Thailand :  3  supercomputers in 1 ranks
+India :  103  supercomputers in 16 ranks
+Malaysia :  13  supercomputers in 7 ranks
+Oman :  1  supercomputers in 1 ranks
+Indonesia :  4  supercomputers in 4 ranks
+Belarus :  3  supercomputers in 3 ranks
+Czech Republic :  5  supercomputers in 5 ranks
+Bulgaria :  4  supercomputers in 4 ranks
+United Arab Emirates :  1  supercomputers in 1 ranks
+Slovakia :  1  supercomputers in 1 ranks
+Croatia :  1  supercomputers in 1 ranks
+
+Process finished with exit code 0
