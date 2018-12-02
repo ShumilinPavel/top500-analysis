@@ -1,0 +1,59 @@
+,Country,Year,Num of Systems,RMax,RPeak,Total Cores,GDPpC,HDI,Q1,Q2,Q3,Q4,Top10,Cluster
+0,Country: Japan,Year: 1993,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 2,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+1,Country: Germany,Year: 1993,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 1,GDPpC: 2,HDI: 2,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2,cluster_1
+2,Country: Japan,Year: 1994,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+3,Country: Germany,Year: 1994,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 2,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2,cluster_1
+4,Country: Japan,Year: 1995,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+5,Country: Germany,Year: 1995,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 2,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2,cluster_1
+6,Country: Japan,Year: 1996,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+7,Country: Germany,Year: 1996,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 2,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2,cluster_1
+8,Country: Japan,Year: 1997,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+9,Country: Japan,Year: 1998,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 2,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+10,Country: Germany,Year: 1998,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 1,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2,cluster_1
+11,Country: Germany,Year: 1999,Num of Systems: 1,RMax: 2,RPeak: 1,Total Cores: 1,GDPpC: 2,HDI: 1,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 1,cluster_1
+12,Country: Japan,Year: 1999,Num of Systems: 2,RMax: 1,RPeak: 2,Total Cores: 2,GDPpC: 1,HDI: 2,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 2,cluster_1
+13,Country: Japan,Year: 2000,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 2,GDPpC: 1,HDI: 3,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 3,cluster_1
+14,Country: Germany,Year: 2000,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 1,GDPpC: 3,HDI: 1,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 2,cluster_1
+15,Country: United Kingdom,Year: 2000,Num of Systems: 3,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 2,HDI: 2,Q1: 1,Q2: 2,Q3: 3,Q4: 4,Top10: 1,cluster_1
+16,Country: France,Year: 2000,Num of Systems: 4,RMax: 4,RPeak: 4,Total Cores: 4,GDPpC: 4,HDI: 4,Q1: 4,Q2: 4,Q3: 4,Q4: 3,Top10: 4,cluster_1
+17,Country: Germany,Year: 2001,Num of Systems: 1,RMax: 2,RPeak: 2,Total Cores: 1,GDPpC: 3,HDI: 1,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 2,cluster_1
+18,Country: Japan,Year: 2001,Num of Systems: 2,RMax: 1,RPeak: 1,Total Cores: 2,GDPpC: 1,HDI: 3,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 3,cluster_1
+19,Country: United Kingdom,Year: 2001,Num of Systems: 3,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 2,HDI: 2,Q1: 1,Q2: 2,Q3: 3,Q4: 3,Top10: 1,cluster_1
+20,Country: Germany,Year: 2002,Num of Systems: 1,RMax: 2,RPeak: 2,Total Cores: 1,GDPpC: 3,HDI: 1,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 2,cluster_1
+21,Country: Japan,Year: 2002,Num of Systems: 2,RMax: 1,RPeak: 1,Total Cores: 2,GDPpC: 1,HDI: 3,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 3,cluster_1
+22,Country: United Kingdom,Year: 2002,Num of Systems: 3,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 2,HDI: 2,Q1: 1,Q2: 2,Q3: 3,Q4: 3,Top10: 1,cluster_1
+23,Country: Germany,Year: 2003,Num of Systems: 1,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 3,HDI: 1,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 2,cluster_1
+24,Country: United Kingdom,Year: 2003,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 2,Q1: 1,Q2: 2,Q3: 3,Q4: 3,Top10: 1,cluster_1
+25,Country: Japan,Year: 2003,Num of Systems: 3,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 3,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 3,cluster_1
+26,Country: United Kingdom,Year: 2004,Num of Systems: 1,RMax: 2,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 2,Q1: 1,Q2: 2,Q3: 3,Q4: 3,Top10: 1,cluster_1
+27,Country: Germany,Year: 2004,Num of Systems: 2,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 3,HDI: 1,Q1: 2,Q2: 3,Q3: 2,Q4: 2,Top10: 2,cluster_1
+28,Country: Japan,Year: 2004,Num of Systems: 3,RMax: 1,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 3,Q1: 3,Q2: 1,Q3: 1,Q4: 1,Top10: 3,cluster_1
+29,Country: United Kingdom,Year: 2005,Num of Systems: 1,RMax: 2,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 2,Q1: 1,Q2: 3,Q3: 4,Q4: 4,Top10: 1,cluster_1
+30,Country: Germany,Year: 2005,Num of Systems: 2,RMax: 3,RPeak: 4,Total Cores: 4,GDPpC: 3,HDI: 1,Q1: 2,Q2: 4,Q3: 3,Q4: 2,Top10: 2,cluster_1
+31,Country: Japan,Year: 2005,Num of Systems: 3,RMax: 1,RPeak: 2,Total Cores: 2,GDPpC: 2,HDI: 3,Q1: 3,Q2: 2,Q3: 2,Q4: 3,Top10: 3,cluster_1
+32,Country: China,Year: 2005,Num of Systems: 4,RMax: 4,RPeak: 3,Total Cores: 3,GDPpC: 4,HDI: 4,Q1: 4,Q2: 1,Q3: 1,Q4: 1,Top10: 4,cluster_1
+33,Country: Japan,Year: 2006,Num of Systems: 2,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 3,HDI: 3,Q1: 3,Q2: 3,Q3: 2,Q4: 3,Top10: 3,cluster_2
+34,Country: United Kingdom,Year: 2006,Num of Systems: 1,RMax: 2,RPeak: 2,Total Cores: 2,GDPpC: 1,HDI: 2,Q1: 1,Q2: 2,Q3: 4,Q4: 4,Top10: 1,cluster_2
+35,Country: Germany,Year: 2006,Num of Systems: 4,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 2,HDI: 1,Q1: 2,Q2: 4,Q3: 3,Q4: 2,Top10: 2,cluster_2
+36,Country: China,Year: 2006,Num of Systems: 3,RMax: 4,RPeak: 4,Total Cores: 4,GDPpC: 4,HDI: 4,Q1: 4,Q2: 1,Q3: 1,Q4: 1,Top10: 4,cluster_2
+37,Country: United Kingdom,Year: 2007,Num of Systems: 1,RMax: 2,RPeak: 1,Total Cores: 2,GDPpC: 1,HDI: 2,Q1: 1,Q2: 1,Q3: 2,Q4: 2,Top10: 1,cluster_1
+38,Country: Germany,Year: 2007,Num of Systems: 2,RMax: 1,RPeak: 2,Total Cores: 1,GDPpC: 2,HDI: 1,Q1: 2,Q2: 2,Q3: 1,Q4: 1,Top10: 2,cluster_1
+39,Country: United Kingdom,Year: 2008,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 3,GDPpC: 1,HDI: 2,Q1: 1,Q2: 1,Q3: 2,Q4: 3,Top10: 1,cluster_1
+40,Country: France,Year: 2008,Num of Systems: 2,RMax: 2,RPeak: 2,Total Cores: 1,GDPpC: 3,HDI: 3,Q1: 3,Q2: 3,Q3: 3,Q4: 2,Top10: 3,cluster_1
+41,Country: Germany,Year: 2008,Num of Systems: 3,RMax: 3,RPeak: 3,Total Cores: 2,GDPpC: 2,HDI: 1,Q1: 2,Q2: 2,Q3: 1,Q4: 1,Top10: 2,cluster_1
+42,Country: United Kingdom,Year: 2009,Num of Systems: 1,RMax: 2,RPeak: 3,Total Cores: 2,GDPpC: 3,HDI: 2,Q1: 1,Q2: 2,Q3: 3,Q4: 4,Top10: 1,cluster_1
+43,Country: Germany,Year: 2009,Num of Systems: 2,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 3,cluster_1
+44,Country: France,Year: 2009,Num of Systems: 3,RMax: 4,RPeak: 4,Total Cores: 3,GDPpC: 2,HDI: 3,Q1: 4,Q2: 4,Q3: 4,Q4: 3,Top10: 4,cluster_1
+45,Country: China,Year: 2009,Num of Systems: 4,RMax: 3,RPeak: 2,Total Cores: 4,GDPpC: 4,HDI: 4,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 2,cluster_1
+46,Country: China,Year: 2010,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 5,HDI: 5,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 2,cluster_1
+47,Country: Japan,Year: 2010,Num of Systems: 4,RMax: 2,RPeak: 2,Total Cores: 4,GDPpC: 1,HDI: 3,Q1: 5,Q2: 3,Q3: 2,Q4: 3,Top10: 5,cluster_1
+48,Country: France,Year: 2010,Num of Systems: 3,RMax: 3,RPeak: 3,Total Cores: 3,GDPpC: 3,HDI: 4,Q1: 4,Q2: 5,Q3: 5,Q4: 4,Top10: 4,cluster_1
+49,Country: Germany,Year: 2010,Num of Systems: 2,RMax: 4,RPeak: 4,Total Cores: 2,GDPpC: 2,HDI: 1,Q1: 3,Q2: 4,Q3: 3,Q4: 2,Top10: 3,cluster_1
+50,Country: United Kingdom,Year: 2010,Num of Systems: 5,RMax: 5,RPeak: 5,Total Cores: 5,GDPpC: 4,HDI: 2,Q1: 1,Q2: 2,Q3: 4,Q4: 5,Top10: 1,cluster_1
+51,Country: China,Year: 2011,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+52,Country: China,Year: 2012,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+53,Country: China,Year: 2013,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+54,Country: China,Year: 2014,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+55,Country: China,Year: 2015,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+56,Country: United States,Year: 2017,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
+57,Country: United States,Year: 2018,Num of Systems: 1,RMax: 1,RPeak: 1,Total Cores: 1,GDPpC: 1,HDI: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1,cluster_1
